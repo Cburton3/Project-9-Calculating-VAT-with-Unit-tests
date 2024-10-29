@@ -4,7 +4,7 @@ import {
   calcularIva,
   calcularLineaTicket,
 } from "./lista-de-compra.helper";
-import { LineaTicket, TipoIva } from "./model";
+import { LineaTicket } from "./model";
 
 describe("calculaTotalProductos", () => {
   it("Deberia de devolver un throw si la entrada es undefined", () => {

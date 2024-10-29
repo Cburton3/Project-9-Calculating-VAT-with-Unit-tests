@@ -2,7 +2,6 @@ import { listaTiposIva } from "./constantes";
 import {
   LineaTicket,
   TipoIva,
-  Producto,
   ResultadoLineaTicket,
   TotalPorTipoIva,
 } from "./model";
